@@ -1,0 +1,4 @@
+Tal y como se propuso al profesor, hemos realizado un video de demostración de las animaciones a modo de 'Demo'
+para facilitar la tarea y hacer más rápida e intuitiva la familiarización con los programas y animaciones del proyecto. 
+
+"Demo_Gradas"
